@@ -4,4 +4,4 @@ I have contributed to the work of [Blinkcns](https://www.blinkcns.com/) (Charles
 
 Let's get in touch.
 
-<a href="https://stackexchange.com/users/7019716"><img src="https://stackexchange.com/users/flair/7019716.png?theme=dark" width="208" height="58" alt="Profile for L. Teder on Stack Exchange" title="Profile for L. Teder on Stack Exchange"></a>
+<a href="https://stackoverflow.com/users/5379649/l-teder"><img src="https://stackexchange.com/users/flair/7019716.png?theme=dark" width="208" height="58" alt="Profile for L. Teder on Stack Overflow" title="Profile for L. Teder on Stack Overflow"></a>
