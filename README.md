@@ -1,6 +1,6 @@
 Hello, I'm Logan! :cowboy_hat_face:
 
-Since April of last year I have been working at [LUMIQ](https://lumiq.tech/) (Charleston, SC). I contributed to the work of [Blinkcns](https://www.blinkcns.com/) (Charleston as well) for over five years in various roles. My programming experience is primarily in Python, particularly with data science/infrastructure, computer vision, machine learning, signal analysis, edge devices, and GIS. I have additional experience in Rust, JS, C++, C, Matlab, Mathematica, and Java (generally ordered in decreasing level of confidence), along with active working knowledge of AWS. In 2023 I graduated from Columbia University with a bachelor's degree in Mechanical Engineering.
+Since April of last year I have been working at [LUMIQ](https://lumiq.tech/) (Charleston, SC). I contributed to the work of [Blinkcns](https://www.blinkcns.com/) (Charleston as well) for over five years in various roles. My programming experience is primarily in Python, particularly with data science/infrastructure, machine learning, computer vision, signal analysis, edge devices, and GIS. I have additional experience in Rust, JS, C++, C, Matlab, Mathematica, and Java (generally ordered in decreasing level of confidence), along with active working knowledge of AWS. In 2023 I graduated from Columbia University with a bachelor's degree in Mechanical Engineering.
 
 Let's get in touch. I've got a lot to offer and I'm always on the hunt for new opportunities.
 
