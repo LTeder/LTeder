@@ -1,6 +1,8 @@
 Hello, I'm Logan! :cowboy_hat_face:
 
-Currently I'm working for [Curis Solutions](https://curissolutions.net/). I've also worked at [LUMIQ](https://lumiq.tech/) and [Blinkcns](https://www.blinkcns.com/) (both in Charleston, SC). My programming experience is primarily in Python, particularly with data science/infrastructure, machine learning, computer vision, signal analysis, edge devices, and GIS. I have additional experience in Rust, JS, C++, C, Matlab, Mathematica, and Java (generally ordered in decreasing level of confidence), along with active working knowledge of AWS and Azure. In 2023 I graduated from Columbia University with a bachelor's degree in Mechanical Engineering.
+Currently I'm working for [Curis Solutions](https://curissolutions.net/). I've also worked at [LUMIQ](https://lumiq.tech/) and [Blinkcns](https://www.blinkcns.com/) (both in Charleston, SC).
+
+My experience in software engineering touches data science, cloud infrastructure, machine learning, DevOps, computer vision, signal analysis, edge devices, and GIS. My programming experience is primarily in Python; additionally I'm familiar with SQL, Rust, JS, C++, C, Matlab, Mathematica, and Java (generally ordered in decreasing level of confidence). I have active working knowledge of AWS and Azure (particularly Fabric). In 2023 I graduated from Columbia University with a bachelor's degree in Mechanical Engineering.
 
 Let's get in touch -- always glad to meet someone new.
 
